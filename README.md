@@ -12,8 +12,8 @@ $ npm install --save --save-exact underscore
 
 ***Please send PRs for other packages you discover!***
 
-> Note: This is **not** a list of projects which have "violated" SemVer on occasion; these are packages that historically do not use the versioning scheme and/or its guidelines.
+> Note: This is **not** a list of projects which have "violated" SemVer on occasion; these are packages that historically do not use the versioning scheme and/or adhere to its guidelines.
 
-- [underscore](https://www.npmjs.org/package/underscore)
+- [backbone](https://www.npmjs.org/package/backbone)
 - [coffee-script](https://www.npmjs.org/package/coffee-script)
-
+- [underscore](https://www.npmjs.org/package/underscore)
